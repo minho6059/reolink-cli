@@ -31,3 +31,4 @@ echo "reolink-cli"
 # clarify the control flow
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
