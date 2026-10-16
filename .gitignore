@@ -11,3 +11,4 @@ tmp/
 *.tmp
 .cache/
 .pytest_cache/
+.vscode/
